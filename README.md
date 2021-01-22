@@ -28,6 +28,10 @@ As a marketing agency, I want a codebase that follows accessiblity standards so 
 
 ## Photos
 
+![Screen Shot 2021-01-22 at 12 09 05 PM](https://user-images.githubusercontent.com/70075378/105534424-b4a77080-5caa-11eb-909d-00778532c7c9.png)
+
+![Screen Shot 2021-01-22 at 12 09 22 PM](https://user-images.githubusercontent.com/70075378/105534448-bf620580-5caa-11eb-8273-5489194119b5.png)
+
 _Photos of this Project:_
 
 ## Technology
